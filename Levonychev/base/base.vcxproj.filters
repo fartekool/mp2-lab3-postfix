@@ -18,12 +18,12 @@
     <ClCompile Include="sample_postfix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="postfix.cpp">
+    <ClCompile Include="tpostfix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="postfix.h">
+    <ClInclude Include="tpostfix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="stack.h">
